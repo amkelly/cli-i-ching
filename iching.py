@@ -12,13 +12,13 @@ def threecoin():
             toss.append(randrange(2,4)) #value between 2 and 3, coin flip
         #print(toss)
         if sum(toss) == 6:
-            print('---x---  6')
+            print('---x---  6 [old yin]')
         elif sum(toss) == 7:
-            print('--- ---  7')
+            print('--- ---  7 [young yin]')
         elif sum(toss) == 8:
-            print('---o---  8')
+            print('---o---  8 [young yang]')
         else:
-            print('-------  9')
+            print('-------  9[old yang]')
         l += 1
             
 def mod_threecoin():
