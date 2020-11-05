@@ -1,2 +1,4 @@
 venv/
 *~
+hexagram-data.ods
+hexagram-data-*.csv
