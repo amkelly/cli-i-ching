@@ -2,7 +2,7 @@
   {
     "Hexagram Number": 1,
     "Unicode decimal": 19904,
-    "Unicode Hex": "4DC0",
+    "Unicode Hex": "4DC0,
     "Unicode Name": "THE CREATIVE HEAVEN",
     "lines": 111111
   },
@@ -11,14 +11,14 @@
     "Unicode decimal": 19905,
     "Unicode Hex": "4DC1",
     "Unicode Name": "THE RECEPTIVE EARTH",
-    "lines": "000000"
+    "lines": 000000
   },
   {
     "Hexagram Number": 3,
     "Unicode decimal": 19906,
     "Unicode Hex": "4DC2",
     "Unicode Name": "DIFFICULTY AT THE BEGINNING",
-    "lines": "010001"
+    "lines": 010001
   },
   {
     "Hexagram Number": 4,
@@ -32,7 +32,7 @@
     "Unicode decimal": 19908,
     "Unicode Hex": "4DC4",
     "Unicode Name": "WAITING",
-    "lines": "010111"
+    "lines": 010111
   },
   {
     "Hexagram Number": 6,
@@ -46,14 +46,14 @@
     "Unicode decimal": 19910,
     "Unicode Hex": "4DC6",
     "Unicode Name": "THE ARMY",
-    "lines": "000010"
+    "lines": 000010
   },
   {
     "Hexagram Number": 8,
     "Unicode decimal": 19911,
     "Unicode Hex": "4DC7",
     "Unicode Name": "HOLDING TOGETHER",
-    "lines": "010000"
+    "lines": 010000
   },
   {
     "Hexagram Number": 9,
@@ -74,7 +74,7 @@
     "Unicode decimal": 19914,
     "Unicode Hex": "4DCA",
     "Unicode Name": "PEACE",
-    "lines": "000111"
+    "lines": 000111
   },
   {
     "Hexagram Number": 12,
@@ -102,21 +102,21 @@
     "Unicode decimal": 19918,
     "Unicode Hex": "4DCE",
     "Unicode Name": "MODESTY",
-    "lines": "000100"
+    "lines": 000100
   },
   {
     "Hexagram Number": 16,
     "Unicode decimal": 19919,
     "Unicode Hex": "4DCF",
     "Unicode Name": "ENTHUSIASM",
-    "lines": "001000"
+    "lines": 001000
   },
   {
     "Hexagram Number": 17,
     "Unicode decimal": 19920,
     "Unicode Hex": "4DD0",
     "Unicode Name": "FOLLOWING",
-    "lines": "011001"
+    "lines": 011001
   },
   {
     "Hexagram Number": 18,
@@ -130,7 +130,7 @@
     "Unicode decimal": 19922,
     "Unicode Hex": "4DD2",
     "Unicode Name": "APPROACH",
-    "lines": "000011"
+    "lines": 000011
   },
   {
     "Hexagram Number": 20,
@@ -165,7 +165,7 @@
     "Unicode decimal": 19927,
     "Unicode Hex": "4DD7",
     "Unicode Name": "RETURN",
-    "lines": "000001"
+    "lines": 000001
   },
   {
     "Hexagram Number": 25,
@@ -193,14 +193,14 @@
     "Unicode decimal": 19931,
     "Unicode Hex": "4DDB",
     "Unicode Name": "GREAT PREPONDERANCE",
-    "lines": "011110"
+    "lines": 011110
   },
   {
     "Hexagram Number": 29,
     "Unicode decimal": 19932,
     "Unicode Hex": "4DDC",
     "Unicode Name": "THE ABYSMAL WATER",
-    "lines": "010010"
+    "lines": 010010
   },
   {
     "Hexagram Number": 30,
@@ -214,14 +214,14 @@
     "Unicode decimal": 19934,
     "Unicode Hex": "4DDE",
     "Unicode Name": "INFLUENCE",
-    "lines": "011100"
+    "lines": 011100
   },
   {
     "Hexagram Number": 32,
     "Unicode decimal": 19935,
     "Unicode Hex": "4DDF",
     "Unicode Name": "DURATION",
-    "lines": "001110"
+    "lines": 001110
   },
   {
     "Hexagram Number": 33,
@@ -235,7 +235,7 @@
     "Unicode decimal": 19937,
     "Unicode Hex": "4DE1",
     "Unicode Name": "GREAT POWER",
-    "lines": "001111"
+    "lines": 001111
   },
   {
     "Hexagram Number": 35,
@@ -249,7 +249,7 @@
     "Unicode decimal": 19939,
     "Unicode Hex": "4DE3",
     "Unicode Name": "DARKENING OF THE LIGHT",
-    "lines": "000101"
+    "lines": 000101
   },
   {
     "Hexagram Number": 37,
@@ -270,14 +270,14 @@
     "Unicode decimal": 19942,
     "Unicode Hex": "4DE6",
     "Unicode Name": "OBSTRUCTION",
-    "lines": "010100"
+    "lines": 010100
   },
   {
     "Hexagram Number": 40,
     "Unicode decimal": 19943,
     "Unicode Hex": "4DE7",
     "Unicode Name": "DELIVERANCE",
-    "lines": "001010"
+    "lines": 001010
   },
   {
     "Hexagram Number": 41,
@@ -298,7 +298,7 @@
     "Unicode decimal": 19946,
     "Unicode Hex": "4DEA",
     "Unicode Name": "BREAKTHROUGH",
-    "lines": "011111"
+    "lines": 011111
   },
   {
     "Hexagram Number": 44,
@@ -312,35 +312,35 @@
     "Unicode decimal": 19948,
     "Unicode Hex": "4DEC",
     "Unicode Name": "GATHERING TOGETHER",
-    "lines": "011000"
+    "lines": 011000
   },
   {
     "Hexagram Number": 46,
     "Unicode decimal": 19949,
     "Unicode Hex": "4DED",
     "Unicode Name": "PUSHING UPWARD",
-    "lines": "000110"
+    "lines": 000110
   },
   {
     "Hexagram Number": 47,
     "Unicode decimal": 19950,
     "Unicode Hex": "4DEE",
     "Unicode Name": "OPPRESSION",
-    "lines": "011010"
+    "lines": 011010
   },
   {
     "Hexagram Number": 48,
     "Unicode decimal": 19951,
     "Unicode Hex": "4DEF",
     "Unicode Name": "THE WELL",
-    "lines": "010110"
+    "lines": 010110
   },
   {
     "Hexagram Number": 49,
     "Unicode decimal": 19952,
     "Unicode Hex": "4DF0",
     "Unicode Name": "REVOLUTION",
-    "lines": "011101"
+    "lines": 011101
   },
   {
     "Hexagram Number": 50,
@@ -354,7 +354,7 @@
     "Unicode decimal": 19954,
     "Unicode Hex": "4DF2",
     "Unicode Name": "THE AROUSING THUNDER",
-    "lines": "001001"
+    "lines": 001001
   },
   {
     "Hexagram Number": 52,
@@ -375,14 +375,14 @@
     "Unicode decimal": 19957,
     "Unicode Hex": "4DF5",
     "Unicode Name": "THE MARRYING MAIDEN",
-    "lines": "001011"
+    "lines": 001011
   },
   {
     "Hexagram Number": 55,
     "Unicode decimal": 19958,
     "Unicode Hex": "4DF6",
     "Unicode Name": "ABUNDANCE",
-    "lines": "001101"
+    "lines": 001101
   },
   {
     "Hexagram Number": 56,
@@ -403,7 +403,7 @@
     "Unicode decimal": 19961,
     "Unicode Hex": "4DF9",
     "Unicode Name": "THE JOYOUS LAKE",
-    "lines": "011011"
+    "lines": 011011
   },
   {
     "Hexagram Number": 59,
@@ -417,7 +417,7 @@
     "Unicode decimal": 19963,
     "Unicode Hex": "4DFB",
     "Unicode Name": "LIMITATION",
-    "lines": "010011"
+    "lines": 010011
   },
   {
     "Hexagram Number": 61,
@@ -431,14 +431,14 @@
     "Unicode decimal": 19965,
     "Unicode Hex": "4DFD",
     "Unicode Name": "SMALL PREPONDERANCE",
-    "lines": "001100"
+    "lines": 001100
   },
   {
     "Hexagram Number": 63,
     "Unicode decimal": 19966,
     "Unicode Hex": "4DFE",
     "Unicode Name": "AFTER COMPLETION",
-    "lines": "010101"
+    "lines": 010101
   },
   {
     "Hexagram Number": 64,
